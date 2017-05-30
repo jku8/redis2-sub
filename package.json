@@ -1,0 +1,21 @@
+{
+  "name": "app2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.0.0",
+    "cheerio": "^1.0.0-rc.1",
+    "express": "^4.15.3",
+    "mocha": "^3.4.2",
+    "node-redis-pubsub": "^1.0.2",
+    "pryjs": "^1.0.3",
+    "redis": "^2.7.1",
+    "request": "^2.81.0"
+  }
+}
